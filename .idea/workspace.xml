@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d1ffa70-634f-4054-934c-4cd9f9bd5c7a" name="Changes" comment="" />
+    <list default="true" id="9d1ffa70-634f-4054-934c-4cd9f9bd5c7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/programa/dados/dicionario_pessoas.xls" beforeDir="false" afterPath="$PROJECT_DIR$/programa/dados/dicionario_pessoas.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa/modelos.py" beforeDir="false" afterPath="$PROJECT_DIR$/programa/modelos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/programa/principal.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2P3aMsiN2PmhA3cmVj9E4m0Ro4o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
