@@ -23,13 +23,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/asobr/PycharmProjects/EAD",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asobr/PycharmProjects/EAD&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\asobr\PycharmProjects\EAD\scripts" />
@@ -38,9 +38,9 @@
       <recent name="C:\Users\asobr\PycharmProjects\EAD" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.script19">
-    <configuration name="script16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EAD" />
+  <component name="RunManager" selected="Python.exercicio_1_modulo_1">
+    <configuration name="exercicio_1_modulo_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data_Extraction_Estacio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -51,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/script16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/exercicio_1_modulo_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio_1_modulo_1" />
         <item itemvalue="Python.script19" />
         <item itemvalue="Python.script18" />
         <item itemvalue="Python.script_teste15" />
         <item itemvalue="Python.script17" />
-        <item itemvalue="Python.script16" />
       </list>
     </recent_temporary>
   </component>
